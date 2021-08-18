@@ -2,7 +2,6 @@
 #include <map>
 
 using std::map;
-using std::pair;
 
 int get_change(int money)
 {
